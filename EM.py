@@ -4,6 +4,7 @@
 Implementation of expectation maximization algorithm on the coin-toss example. 
 
 Inspired by the following work:
+http://ai.stanford.edu/~chuongdo/papers/em_tutorial.pdf
 https://pdfs.semanticscholar.org/presentation/49a2/d769df4592fab60a324f3c6eed7e4a512a8c.pdf
 https://ibug.doc.ic.ac.uk/media/uploads/documents/expectation_maximization-1.pdf
 """
